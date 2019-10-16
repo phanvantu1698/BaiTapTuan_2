@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{58596CF4-13AC-404F-B044-899FA8AF5F05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListviewHoa/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListviewHoa/hoa.cs" Line="4" Column="1" />
+      <File FileName="ListviewHoa/MainPage.xaml.cs" Line="17" Column="9" />
+      <File FileName="ListviewHoa/MainPage.xaml" Line="13" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListviewHoa" expanded="True">
+            <Node name="ListviewHoa" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ListviewHoa.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListviewHoa.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

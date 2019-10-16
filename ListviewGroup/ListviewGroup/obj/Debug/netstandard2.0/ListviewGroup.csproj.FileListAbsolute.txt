@@ -1,0 +1,13 @@
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ListviewGroup.csprojAssemblyReference.cache
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ListviewGroup.AssemblyInfoInputs.cache
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ListviewGroup.AssemblyInfo.cs
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/bin/Debug/netstandard2.0/ListviewGroup.deps.json
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/bin/Debug/netstandard2.0/ListviewGroup.dll
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/bin/Debug/netstandard2.0/ref/ListviewGroup.dll
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/bin/Debug/netstandard2.0/ListviewGroup.pdb
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ListviewGroup.dll
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ref/ListviewGroup.dll
+/Users/phantu/Projects/ListviewGroup/ListviewGroup/obj/Debug/netstandard2.0/ListviewGroup.pdb

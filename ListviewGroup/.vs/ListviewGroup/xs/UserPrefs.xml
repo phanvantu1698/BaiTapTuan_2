@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{54E87986-8B69-426F-9B35-41EFE4D36F28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListviewGroup/hoa.cs">
+    <Files>
+      <File FileName="ListviewGroup/MainPage.xaml.cs" Line="22" Column="13" />
+      <File FileName="ListviewGroup/hoa.cs" Line="15" Column="1" />
+      <File FileName="ListviewGroup/MainPage.xaml" Line="6" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListviewGroup" expanded="True">
+            <Node name="ListviewGroup" expanded="True">
+              <Node name="hoa.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ListviewGroup.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListviewGroup.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

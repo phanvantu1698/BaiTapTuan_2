@@ -1,0 +1,13 @@
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/bin/Debug/netstandard2.0/ListviewHoa.deps.json
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/bin/Debug/netstandard2.0/ListviewHoa.dll
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/bin/Debug/netstandard2.0/ref/ListviewHoa.dll
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/bin/Debug/netstandard2.0/ListviewHoa.pdb
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ListviewHoa.csprojAssemblyReference.cache
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ListviewHoa.AssemblyInfoInputs.cache
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ListviewHoa.AssemblyInfo.cs
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ListviewHoa.dll
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ref/ListviewHoa.dll
+/Users/phantu/Projects/ListviewHoa/ListviewHoa/obj/Debug/netstandard2.0/ListviewHoa.pdb
